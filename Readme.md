@@ -4,5 +4,4 @@ cambios 03/09 10.29 desde mi compu
 Trabajando en clase con GIT
 2da prueba
 Mas pruebas en clase
-
-hoy es 10/9 estamos practicando
+hoy es 10/9 estamos practicando. NachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNachoNacho
